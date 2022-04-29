@@ -294,6 +294,11 @@ body {
    color: #f19c79;
 } 
 
+
+p {
+    color: white;
+}
+
 .skills li {
     margin: 20px 0;
 }
